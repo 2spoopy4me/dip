@@ -13,3 +13,10 @@ class Dip:
     def __init__(self, filename):
         self.filename = filename
 
+    def get_columns():
+        '''Loads columns into memory'''
+        pass
+    
+    def get_rows(str: column, limit=None):
+        '''Loads all rows into memory'''
+        pass
